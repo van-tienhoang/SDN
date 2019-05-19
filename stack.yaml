@@ -1,0 +1,15 @@
+heat_template_version: 2013-05-23
+
+description: Simple template to deploy a single compute instance
+
+resources:
+  my_instance1:
+    type: OS::Nova::Server
+    properties:
+      image: cirros
+      flavor: tempest2      
+  my_instance2:
+    type: OS::Nova::Server
+    properties:
+      image: cirros
+      flavor: tempest2      

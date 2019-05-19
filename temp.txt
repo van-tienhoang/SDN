@@ -1,0 +1,8 @@
+eri-ipmitool R1F Mar 28 2013 11:41:12 - Current time: Thu Mar 14 11:53:59 2019
+ ID |    Name    |   Value  | Units
+----|------------|----------|------
+  0 | Tempera  0 | 32.50000 | deg C
+  4 | Voltage  1 | 53.61914 | Volts
+  5 | Voltage  2 | 53.53125 | Volts
+ 68 | Current  1 | 0.695068 | Amps
+ 69 | Current  2 | 0.642334 | Amps

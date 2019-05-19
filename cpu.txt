@@ -1,0 +1,158 @@
+cpufrequtils 008: cpufreq-info (C) Dominik Brodowski 2004-2009
+Report errors and bugs to cpufreq@vger.kernel.org, please.
+analyzing CPU 0:
+  driver: acpi-cpufreq
+  CPUs which run at the same hardware frequency: 0
+  CPUs which need to have their frequency coordinated by software: 0
+  maximum transition latency: 10.0 us.
+  hardware limits: 1.60 GHz - 2.00 GHz
+  available frequency steps: 2.00 GHz, 2.00 GHz, 1.86 GHz, 1.73 GHz, 1.60 GHz
+  available cpufreq governors: conservative, ondemand, userspace, powersave, performance
+  current policy: frequency should be within 1.60 GHz and 2.00 GHz.
+                  The governor "userspace" may decide which speed to use
+                  within this range.
+  current CPU frequency is 1.60 GHz (asserted by call to hardware).
+  cpufreq stats: 2.00 GHz:0.09%, 2.00 GHz:0.03%, 1.86 GHz:0.23%, 1.73 GHz:0.43%, 1.60 GHz:99.22%  (16922040)
+analyzing CPU 1:
+  driver: acpi-cpufreq
+  CPUs which run at the same hardware frequency: 1
+  CPUs which need to have their frequency coordinated by software: 1
+  maximum transition latency: 10.0 us.
+  hardware limits: 1.60 GHz - 2.00 GHz
+  available frequency steps: 2.00 GHz, 2.00 GHz, 1.86 GHz, 1.73 GHz, 1.60 GHz
+  available cpufreq governors: conservative, ondemand, userspace, powersave, performance
+  current policy: frequency should be within 1.60 GHz and 2.00 GHz.
+                  The governor "userspace" may decide which speed to use
+                  within this range.
+  current CPU frequency is 2.00 GHz (asserted by call to hardware).
+  cpufreq stats: 2.00 GHz:94.08%, 2.00 GHz:0.06%, 1.86 GHz:0.39%, 1.73 GHz:0.56%, 1.60 GHz:4.91%  (21488114)
+analyzing CPU 2:
+  driver: acpi-cpufreq
+  CPUs which run at the same hardware frequency: 2
+  CPUs which need to have their frequency coordinated by software: 2
+  maximum transition latency: 10.0 us.
+  hardware limits: 1.60 GHz - 2.00 GHz
+  available frequency steps: 2.00 GHz, 2.00 GHz, 1.86 GHz, 1.73 GHz, 1.60 GHz
+  available cpufreq governors: conservative, ondemand, userspace, powersave, performance
+  current policy: frequency should be within 1.60 GHz and 2.00 GHz.
+                  The governor "userspace" may decide which speed to use
+                  within this range.
+  current CPU frequency is 2.00 GHz (asserted by call to hardware).
+  cpufreq stats: 2.00 GHz:94.06%, 2.00 GHz:0.05%, 1.86 GHz:0.32%, 1.73 GHz:0.51%, 1.60 GHz:5.06%  (19922515)
+analyzing CPU 3:
+  driver: acpi-cpufreq
+  CPUs which run at the same hardware frequency: 3
+  CPUs which need to have their frequency coordinated by software: 3
+  maximum transition latency: 10.0 us.
+  hardware limits: 1.60 GHz - 2.00 GHz
+  available frequency steps: 2.00 GHz, 2.00 GHz, 1.86 GHz, 1.73 GHz, 1.60 GHz
+  available cpufreq governors: conservative, ondemand, userspace, powersave, performance
+  current policy: frequency should be within 1.60 GHz and 2.00 GHz.
+                  The governor "userspace" may decide which speed to use
+                  within this range.
+  current CPU frequency is 2.00 GHz (asserted by call to hardware).
+  cpufreq stats: 2.00 GHz:93.99%, 2.00 GHz:0.03%, 1.86 GHz:0.27%, 1.73 GHz:0.44%, 1.60 GHz:5.27%  (17457954)
+analyzing CPU 4:
+  driver: acpi-cpufreq
+  CPUs which run at the same hardware frequency: 4
+  CPUs which need to have their frequency coordinated by software: 4
+  maximum transition latency: 10.0 us.
+  hardware limits: 1.60 GHz - 2.00 GHz
+  available frequency steps: 2.00 GHz, 2.00 GHz, 1.86 GHz, 1.73 GHz, 1.60 GHz
+  available cpufreq governors: conservative, ondemand, userspace, powersave, performance
+  current policy: frequency should be within 1.60 GHz and 2.00 GHz.
+                  The governor "userspace" may decide which speed to use
+                  within this range.
+  current CPU frequency is 2.00 GHz (asserted by call to hardware).
+  cpufreq stats: 2.00 GHz:93.98%, 2.00 GHz:0.03%, 1.86 GHz:0.26%, 1.73 GHz:0.42%, 1.60 GHz:5.31%  (16846491)
+analyzing CPU 5:
+  driver: acpi-cpufreq
+  CPUs which run at the same hardware frequency: 5
+  CPUs which need to have their frequency coordinated by software: 5
+  maximum transition latency: 10.0 us.
+  hardware limits: 1.60 GHz - 2.00 GHz
+  available frequency steps: 2.00 GHz, 2.00 GHz, 1.86 GHz, 1.73 GHz, 1.60 GHz
+  available cpufreq governors: conservative, ondemand, userspace, powersave, performance
+  current policy: frequency should be within 1.60 GHz and 2.00 GHz.
+                  The governor "userspace" may decide which speed to use
+                  within this range.
+  current CPU frequency is 2.00 GHz (asserted by call to hardware).
+  cpufreq stats: 2.00 GHz:93.96%, 2.00 GHz:0.02%, 1.86 GHz:0.24%, 1.73 GHz:0.41%, 1.60 GHz:5.36%  (16449067)
+analyzing CPU 6:
+  driver: acpi-cpufreq
+  CPUs which run at the same hardware frequency: 6
+  CPUs which need to have their frequency coordinated by software: 6
+  maximum transition latency: 10.0 us.
+  hardware limits: 1.60 GHz - 2.00 GHz
+  available frequency steps: 2.00 GHz, 2.00 GHz, 1.86 GHz, 1.73 GHz, 1.60 GHz
+  available cpufreq governors: conservative, ondemand, userspace, powersave, performance
+  current policy: frequency should be within 1.60 GHz and 2.00 GHz.
+                  The governor "userspace" may decide which speed to use
+                  within this range.
+  current CPU frequency is 1.60 GHz (asserted by call to hardware).
+  cpufreq stats: 2.00 GHz:0.11%, 2.00 GHz:0.02%, 1.86 GHz:0.15%, 1.73 GHz:0.21%, 1.60 GHz:99.51%  (2715299)
+analyzing CPU 7:
+  driver: acpi-cpufreq
+  CPUs which run at the same hardware frequency: 7
+  CPUs which need to have their frequency coordinated by software: 7
+  maximum transition latency: 10.0 us.
+  hardware limits: 1.60 GHz - 2.00 GHz
+  available frequency steps: 2.00 GHz, 2.00 GHz, 1.86 GHz, 1.73 GHz, 1.60 GHz
+  available cpufreq governors: conservative, ondemand, userspace, powersave, performance
+  current policy: frequency should be within 1.60 GHz and 2.00 GHz.
+                  The governor "userspace" may decide which speed to use
+                  within this range.
+  current CPU frequency is 1.60 GHz (asserted by call to hardware).
+  cpufreq stats: 2.00 GHz:0.08%, 2.00 GHz:0.01%, 1.86 GHz:0.06%, 1.73 GHz:0.12%, 1.60 GHz:99.74%  (2049282)
+analyzing CPU 8:
+  driver: acpi-cpufreq
+  CPUs which run at the same hardware frequency: 8
+  CPUs which need to have their frequency coordinated by software: 8
+  maximum transition latency: 10.0 us.
+  hardware limits: 1.60 GHz - 2.00 GHz
+  available frequency steps: 2.00 GHz, 2.00 GHz, 1.86 GHz, 1.73 GHz, 1.60 GHz
+  available cpufreq governors: conservative, ondemand, userspace, powersave, performance
+  current policy: frequency should be within 1.60 GHz and 2.00 GHz.
+                  The governor "userspace" may decide which speed to use
+                  within this range.
+  current CPU frequency is 1.60 GHz (asserted by call to hardware).
+  cpufreq stats: 2.00 GHz:0.06%, 2.00 GHz:0.01%, 1.86 GHz:0.05%, 1.73 GHz:0.10%, 1.60 GHz:99.78%  (2083976)
+analyzing CPU 9:
+  driver: acpi-cpufreq
+  CPUs which run at the same hardware frequency: 9
+  CPUs which need to have their frequency coordinated by software: 9
+  maximum transition latency: 10.0 us.
+  hardware limits: 1.60 GHz - 2.00 GHz
+  available frequency steps: 2.00 GHz, 2.00 GHz, 1.86 GHz, 1.73 GHz, 1.60 GHz
+  available cpufreq governors: conservative, ondemand, userspace, powersave, performance
+  current policy: frequency should be within 1.60 GHz and 2.00 GHz.
+                  The governor "userspace" may decide which speed to use
+                  within this range.
+  current CPU frequency is 1.60 GHz (asserted by call to hardware).
+  cpufreq stats: 2.00 GHz:0.08%, 2.00 GHz:0.01%, 1.86 GHz:0.06%, 1.73 GHz:0.12%, 1.60 GHz:99.73%  (2035575)
+analyzing CPU 10:
+  driver: acpi-cpufreq
+  CPUs which run at the same hardware frequency: 10
+  CPUs which need to have their frequency coordinated by software: 10
+  maximum transition latency: 10.0 us.
+  hardware limits: 1.60 GHz - 2.00 GHz
+  available frequency steps: 2.00 GHz, 2.00 GHz, 1.86 GHz, 1.73 GHz, 1.60 GHz
+  available cpufreq governors: conservative, ondemand, userspace, powersave, performance
+  current policy: frequency should be within 1.60 GHz and 2.00 GHz.
+                  The governor "userspace" may decide which speed to use
+                  within this range.
+  current CPU frequency is 1.60 GHz (asserted by call to hardware).
+  cpufreq stats: 2.00 GHz:0.05%, 2.00 GHz:0.00%, 1.86 GHz:0.04%, 1.73 GHz:0.07%, 1.60 GHz:99.84%  (1657395)
+analyzing CPU 11:
+  driver: acpi-cpufreq
+  CPUs which run at the same hardware frequency: 11
+  CPUs which need to have their frequency coordinated by software: 11
+  maximum transition latency: 10.0 us.
+  hardware limits: 1.60 GHz - 2.00 GHz
+  available frequency steps: 2.00 GHz, 2.00 GHz, 1.86 GHz, 1.73 GHz, 1.60 GHz
+  available cpufreq governors: conservative, ondemand, userspace, powersave, performance
+  current policy: frequency should be within 1.60 GHz and 2.00 GHz.
+                  The governor "userspace" may decide which speed to use
+                  within this range.
+  current CPU frequency is 1.60 GHz (asserted by call to hardware).
+  cpufreq stats: 2.00 GHz:0.06%, 2.00 GHz:0.01%, 1.86 GHz:0.05%, 1.73 GHz:0.10%, 1.60 GHz:99.78%  (2049303)
