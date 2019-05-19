@@ -1,0 +1,1 @@
+# Using bash shell and jq to process json data on server
